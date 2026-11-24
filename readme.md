@@ -8,6 +8,7 @@ Offers are checked when added. Vendors can change or end them at any time, so co
 
 ## Contents
 
+- [Partner Deals](#partner-deals)
 - [Video Editing and Screen Recording](#video-editing-and-screen-recording)
 - [AI Voice, Video, and Image Tools](#ai-voice-video-and-image-tools)
 - [Music, Sound Effects, and Stock Assets](#music-sound-effects-and-stock-assets)
@@ -19,6 +20,27 @@ Offers are checked when added. Vendors can change or end them at any time, so co
 - [Cameras, Microphones, and Streaming Gear](#cameras-microphones-and-streaming-gear)
 - [Lighting, Support, and Bags](#lighting-support-and-bags)
 - [Other Deal Lists](#other-deal-lists)
+
+## Partner Deals
+
+Deals from my partners. The links in this section are affiliate links.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://homeck.app/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><img src="https://homeck.app/og/black-friday.jpg" width="100%" alt="Homeck Black Friday: up to 40% off Homeck Pro"></a><br>
+      <a href="https://homeck.app/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><b>Homeck</b></a> · Up to 40% off Homeck Pro<br>
+      HomeKit automations and scenes for room lights and devices on iPhone and iPad.<br>
+      Ends Dec 6
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://getuql.com/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><img src="https://getuql.com/og-sale.png" width="100%" alt="uql Black Friday: 20% off your first year with code BF2026"></a><br>
+      <a href="https://getuql.com/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><b>uql</b></a> · 20% off the first year<br>
+      Smart links, QR codes, and bio pages.<br>
+      Code <code>BF2026</code> · Ends Dec 6
+    </td>
+  </tr>
+</table>
 
 ## Video Editing and Screen Recording
 
