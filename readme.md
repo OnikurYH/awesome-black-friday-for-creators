@@ -21,7 +21,7 @@ Offers are checked when added. Vendors can change or end them at any time, so co
 - [Lighting, Support, and Bags](#lighting-support-and-bags)
 - [Other Deal Lists](#other-deal-lists)
 
-## Partner Deals
+## ![](media/handshake.svg)Partner Deals
 
 Deals from my partners. The links in this section are affiliate links.
 
@@ -42,7 +42,7 @@ Deals from my partners. The links in this section are affiliate links.
   </tr>
 </table>
 
-## Video Editing and Screen Recording
+## ![](media/video.svg)Video Editing and Screen Recording
 
 - [Adobe Creative Cloud Pro](https://www.adobe.com/creativecloud/plans.html) - Premiere, After Effects, Photoshop, and 20+ other apps in one subscription.<br>
   57% off the first year, per [MacRumors](https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/) and [Creative Bloq](https://www.creativebloq.com/deals/adobes-black-friday-deal-is-its-biggest-in-years-with-57-percent-off-creative-cloud-pro) (Ends Nov 27 or Dec 6)
@@ -57,7 +57,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [Recut](https://getrecut.com/) - Silence-removal tool for video and podcast recordings.<br>
   One-time purchase for $99 instead of $149 (Ends Dec 4)
 
-## AI Voice, Video, and Image Tools
+## ![](media/sparkles.svg)AI Voice, Video, and Image Tools
 
 - [ElevenLabs](https://elevenlabs.io/pricing) - Text-to-speech, voice cloning, and audio dubbing tools.<br>
   Up to 55% off annual plans (Ends Dec 1)
@@ -74,7 +74,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [HitPaw](https://www.hitpaw.com/sales-promotion.html) - Apps for video and photo enhancement and format conversion.<br>
   Up to 60% off (Ends Dec 7)
 
-## Music, Sound Effects, and Stock Assets
+## ![](media/disc-3.svg)Music, Sound Effects, and Stock Assets
 
 - [Artlist](https://artlist.io/blog/artlist-holidaysale/) - Catalog of stock music, sound effects, footage, and AI generation tools.<br>
   40% off annual AI plans.
@@ -83,7 +83,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [Magnific (formerly Freepik)](https://www.magnific.com/pricing) - Stock photos, vectors, video, and AI image generation tools.<br>
   Up to 62% off annual plans (Ends Dec 1)
 
-## Audio Production and Podcasting
+## ![](media/mic.svg)Audio Production and Podcasting
 
 - [iZotope](https://www.izotope.com/en/shop/deals.html) - Audio repair, mixing, and mastering plugins.<br>
   25% off flagship products, other deals from $29 (Ends Dec 7)
@@ -98,7 +98,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [Captivate](https://www.captivate.fm/podcast-industry-news/black-friday-podcast-deals) - Podcast hosting, analytics, and monetization.<br>
   15 months for the price of 12 on annual plans (Ends Dec 11)
 
-## Photo Editing and Design
+## ![](media/image.svg)Photo Editing and Design
 
 - [Luminar](https://skylum.com/luminar/pricing) - Photo editor for desktop and mobile.<br>
   Up to 77% off.
@@ -111,7 +111,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [Darkroom](https://darkroom.co/black-friday) - Photo and video editor for iPhone, iPad, and Mac.<br>
   First year for $19.99 instead of $39.99 (Ends Dec 3)
 
-## Social Media Scheduling and YouTube Growth
+## ![](media/calendar-clock.svg)Social Media Scheduling and YouTube Growth
 
 - [Later](https://later.com/black-friday-sale/) - Social media scheduler for Instagram, TikTok, LinkedIn, and Pinterest.<br>
   6 months free on annual plans with code `LATERBF26` (Ends Dec 4)
@@ -126,7 +126,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [OutlierKit](https://outlierkit.com/blog/black-friday-youtube-tool-deals) - YouTube research tool for finding outlier videos and keywords.<br>
   40% off any plan with code `BFCM40` (Ends Dec 5)
 
-## Newsletters, Courses, and Memberships
+## ![](media/mail.svg)Newsletters, Courses, and Memberships
 
 - [Kit](https://kit.com/promotions) - Email newsletters, automations, and landing pages.<br>
   60% off the first three months of the Creator Plan (Ends Dec 1)
@@ -141,7 +141,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [Kajabi](https://www.kajabi.com/black-friday) - Platform for selling courses, coaching, and memberships with built-in web and email tools.<br>
   30% off all plans for 6 months (Ends Nov 30)
 
-## Websites and Portfolios
+## ![](media/globe.svg)Websites and Portfolios
 
 - [WordPress.com](https://wordpress.com/black-friday-2026/) - Hosted WordPress sites and blogs.<br>
   Extra 25% off annual and multi-year plans (Ends Dec 1)
@@ -150,7 +150,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [Pixpa](https://www.pixpa.com/blog/black-friday-cyber-monday-deals) - Portfolio website builder with client galleries, an online store, and a blog.<br>
   Up to 55% off annual plans with code `BLFPIXPA55` (Starts Nov 28, ends Dec 31)
 
-## Cameras, Microphones, and Streaming Gear
+## ![](media/camera.svg)Cameras, Microphones, and Streaming Gear
 
 - [DJI](https://us.store.dji.com/pages/promotion) - Handheld cameras, action cameras, gimbals, and wireless microphones.<br>
   Discounts on handheld cameras and stabilizers.
@@ -163,7 +163,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [Logitech](https://www.logitech.com/en-us/shop/deals) - Webcams, keyboards, mice, and streaming peripherals.<br>
   Up to 60% off.
 
-## Lighting, Support, and Bags
+## ![](media/lightbulb.svg)Lighting, Support, and Bags
 
 - [Aputure](https://aputure.com/en-US/collections/black-friday-sale) - LED lights for film and video production.<br>
   Up to 20% off.
@@ -178,7 +178,7 @@ Deals from my partners. The links in this section are affiliate links.
 - [JOBY](https://joby.com/pages/black-friday-sale) - Flexible tripods and phone mounts.<br>
   15% off sitewide.
 
-## Other Deal Lists
+## ![](media/list.svg)Other Deal Lists
 
 These lists are updated for 2026. Because they target a general audience rather than content creators and influencers, relevant tools are spread across multiple sections.
 
