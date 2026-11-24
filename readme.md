@@ -4,6 +4,8 @@
 
 Offers are checked when added. Vendors can change or end them at any time, so confirm the price at checkout.
 
+> 💰 Some of these are affiliate links, meaning if you snag a great deal through them, I earn a small commission while you lock in a lower price! Thank you so much for supporting what I do.
+
 ## Contents
 
 - [Video Editing and Screen Recording](#video-editing-and-screen-recording)
@@ -168,7 +170,3 @@ These lists are updated for 2026. Because they target a general audience rather 
 - [Mac and iOS Black Friday Deals](https://github.com/longseespace/mac-black-friday#readme) - Mac, iPhone, and iPad apps from indie developers, with design, photo, audio, and video sections.
 - [Awesome BFCM 2026](https://github.com/thuongtin/awesome-bfcm-2026#readme) - Deals collected automatically from Reddit, GitHub, Facebook, and X, including electronics and hardware.
 - [Domain Name Deals](https://github.com/MichaelCyger/Domains-Black-Friday-Cyber-Monday#readme) - Domain registration, transfer, and bundle deals.
-
-## Contributing
-
-Corrections and new deals are welcome. Read the [contribution guidelines](contributing.md) first.
