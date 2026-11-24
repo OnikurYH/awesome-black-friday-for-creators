@@ -1,12 +1,8 @@
 # Awesome Black Friday for Creators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Black Friday and Cyber Monday deals on the tools content creators pay for.
+> Black Friday and Cyber Monday deals on paid software and gear for content creators and influencers.
 
-Black Friday is November 27, 2026, and Cyber Monday is November 30, 2026. Every deal here was read on the vendor's own site on November 24, 2026, unless the entry names another source.
-
-- Dates are in 2026. An entry with no end date means the vendor gave none.
-- Links carry no affiliate or tracking parameters.
-- Offers can differ by region and plan. Gear offers were read on US stores. Confirm the price at checkout before paying.
+Offers are checked when added. Vendors can change or end them at any time, so confirm the price at checkout.
 
 ## Contents
 
@@ -28,39 +24,39 @@ Black Friday is November 27, 2026, and Cyber Monday is November 30, 2026. Every 
   57% off the first year, per [MacRumors](https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/) and [Creative Bloq](https://www.creativebloq.com/deals/adobes-black-friday-deal-is-its-biggest-in-years-with-57-percent-off-creative-cloud-pro) (Ends Nov 27 or Dec 6)
 - [Filmora](https://filmora.wondershare.com/sales-promotion.html) - Desktop and mobile video editor with templates.<br>
   Up to 30% off annual plans (Ends Dec 8)
-- [VEED](https://www.veed.io/tools/black-friday) - Browser video editor with subtitles and screen recording.<br>
+- [VEED](https://www.veed.io/tools/black-friday) - Browser-based video editor with subtitle tools and screen recording.<br>
   30% off annual plans with code `BLACKFRIDAY30` (Ends Dec 2)
-- [InVideo](https://invideo.io/pricing/) - Generates and edits videos from text prompts.<br>
+- [InVideo](https://invideo.io/pricing/) - AI video generator and editor driven by text prompts.<br>
   Up to 75% off annual plans.
 - [Ecamm Live](https://www.ecamm.com/blackfriday/) - Live streaming and recording studio for Mac.<br>
   40% off the first year (Ends Nov 30)
-- [Recut](https://getrecut.com/) - Removes silences from video and podcast recordings.<br>
+- [Recut](https://getrecut.com/) - Silence-removal tool for video and podcast recordings.<br>
   One-time purchase for $99 instead of $149 (Ends Dec 4)
 
 ## AI Voice, Video, and Image Tools
 
-- [ElevenLabs](https://elevenlabs.io/pricing) - Text to speech, voice cloning, and dubbing.<br>
+- [ElevenLabs](https://elevenlabs.io/pricing) - Text-to-speech, voice cloning, and audio dubbing tools.<br>
   Up to 55% off annual plans (Ends Dec 1)
 - [Synthesia](https://www.synthesia.io/pricing) - Avatar videos generated from scripts and documents.<br>
   Up to 50% off yearly plans (Ends Dec 7)
-- [Suno](https://suno.com/pricing) - Music and song generation.<br>
+- [Suno](https://suno.com/pricing) - AI music and song generator.<br>
   Extra 30% off annual plans.
-- [Topaz Labs](https://www.topazlabs.com/sale) - Upscaling, denoising, and sharpening for video and photos.<br>
+- [Topaz Labs](https://www.topazlabs.com/sale) - Video and photo upscaling, denoising, and sharpening software.<br>
   Up to 67% off.
-- [Pictory](https://pictory.ai/pricing/) - Turns scripts, articles, and long videos into short videos.<br>
+- [Pictory](https://pictory.ai/pricing/) - Tool for turning scripts, articles, and long videos into short clips.<br>
   50% off all plans.
 - [Colossyan](https://www.colossyan.com/pricing) - Avatar videos and courses generated from documents and slides.<br>
   40% off the first year of Professional with code `BLACKFRIDAY40` (Ends Nov 30)
-- [HitPaw](https://www.hitpaw.com/sales-promotion.html) - Video and photo enhancement and conversion apps.<br>
+- [HitPaw](https://www.hitpaw.com/sales-promotion.html) - Apps for video and photo enhancement and format conversion.<br>
   Up to 60% off (Ends Dec 7)
 
 ## Music, Sound Effects, and Stock Assets
 
-- [Artlist](https://artlist.io/blog/artlist-holidaysale/) - Stock music, sound effects, footage, and AI generation.<br>
+- [Artlist](https://artlist.io/blog/artlist-holidaysale/) - Catalog of stock music, sound effects, footage, and AI generation tools.<br>
   40% off annual AI plans.
 - [Audiio](https://audiio.com/pricing) - Music and sound effects licensing.<br>
   Lifetime license for $199 instead of $699 (Ends Nov 29)
-- [Magnific (formerly Freepik)](https://www.magnific.com/pricing) - Stock photos, vectors, and video plus AI image tools.<br>
+- [Magnific (formerly Freepik)](https://www.magnific.com/pricing) - Stock photos, vectors, video, and AI image generation tools.<br>
   Up to 62% off annual plans (Ends Dec 1)
 
 ## Audio Production and Podcasting
@@ -82,52 +78,52 @@ Black Friday is November 27, 2026, and Cyber Monday is November 30, 2026. Every 
 
 - [Luminar](https://skylum.com/luminar/pricing) - Photo editor for desktop and mobile.<br>
   Up to 77% off.
-- [DxO](https://www.dxo.com/en/news/introducing-black-friday/) - RAW photo editors PhotoLab, PureRAW, and Nik Collection.<br>
+- [DxO](https://www.dxo.com/en/news/introducing-black-friday/) - RAW photo editing suite including PhotoLab, PureRAW, and Nik Collection.<br>
   Up to 50% off.
 - [ON1 Photo RAW](https://www.on1.com/landing/black-friday/) - RAW photo editor and organizer for Mac and Windows.<br>
   One-time license for $59.99 (Ends Nov 27)
-- [Kittl](https://www.kittl.com/blogs/black-friday-2026-our-biggest-deal-yet/) - Browser design tool for merch, logos, and social graphics.<br>
+- [Kittl](https://www.kittl.com/blogs/black-friday-2026-our-biggest-deal-yet/) - Browser-based design tool for merch, logos, and social graphics.<br>
   50% off Max plans with code `BF2026` (Ends Nov 30)
 - [Darkroom](https://darkroom.co/black-friday) - Photo and video editor for iPhone, iPad, and Mac.<br>
   First year for $19.99 instead of $39.99 (Ends Dec 3)
 
 ## Social Media Scheduling and YouTube Growth
 
-- [Later](https://later.com/black-friday-sale/) - Schedules posts to Instagram, TikTok, LinkedIn, and Pinterest.<br>
+- [Later](https://later.com/black-friday-sale/) - Social media scheduler for Instagram, TikTok, LinkedIn, and Pinterest.<br>
   6 months free on annual plans with code `LATERBF26` (Ends Dec 4)
-- [SocialBee](https://socialbee.com/pricing/) - Schedules and recycles social posts by content category.<br>
+- [SocialBee](https://socialbee.com/pricing/) - Social media scheduler with category-based post recycling.<br>
   50% off yearly plans with code `SOCIALBEEBF26` (Ends Dec 1)
-- [SocialPilot](https://www.socialpilot.co/black-friday) - Schedules posts and reports analytics across social accounts.<br>
+- [SocialPilot](https://www.socialpilot.co/black-friday) - Social media scheduling and analytics tool for multiple accounts.<br>
   30% off annual plans for the first year.
 - [vidIQ](https://vidiq.com/unlock-growth/) - YouTube keyword research, video ideas, and channel analytics.<br>
   25% off Boost with code `bfcm26-yr` (Ends Dec 2)
 - [TubeBuddy](https://www.tubebuddy.com/black-friday) - YouTube SEO, keyword research, and bulk video editing.<br>
   50% off annual licenses (Ends Dec 6)
-- [OutlierKit](https://outlierkit.com/blog/black-friday-youtube-tool-deals) - Finds outlier YouTube videos and keywords for channel research.<br>
+- [OutlierKit](https://outlierkit.com/blog/black-friday-youtube-tool-deals) - YouTube research tool for finding outlier videos and keywords.<br>
   40% off any plan with code `BFCM40` (Ends Dec 5)
 
 ## Newsletters, Courses, and Memberships
 
 - [Kit](https://kit.com/promotions) - Email newsletters, automations, and landing pages.<br>
   60% off the first three months of the Creator Plan (Ends Dec 1)
-- [beehiiv](https://www.beehiiv.com/black-friday) - Newsletter platform with website, ads, and paid subscriptions.<br>
+- [beehiiv](https://www.beehiiv.com/black-friday) - Newsletter platform with web publishing, ads, and paid subscriptions.<br>
   20% off annual plans with code `BFCM2026`.
 - [MailerLite](https://www.mailerlite.com/black-friday-deal) - Email newsletters, automations, and digital product sales.<br>
   26% off annual plans with code `LITEFRIDAY26` (Ends Dec 18)
 - [GetResponse](https://www.getresponse.com/blog/saas-black-friday-deals) - Email newsletters, automations, and signup forms.<br>
   30% off a 12-month plan, 40% off 24 months (Starts Nov 25, ends Dec 3)
-- [Teachable](https://www.teachable.com/pricing) - Hosts and sells online courses, coaching, and memberships.<br>
+- [Teachable](https://www.teachable.com/pricing) - Platform for hosting and selling online courses, coaching, and memberships.<br>
   50% off for 2 months.
-- [Kajabi](https://www.kajabi.com/black-friday) - Sells courses, coaching, and memberships with website and email.<br>
+- [Kajabi](https://www.kajabi.com/black-friday) - Platform for selling courses, coaching, and memberships with built-in web and email tools.<br>
   30% off all plans for 6 months (Ends Nov 30)
 
 ## Websites and Portfolios
 
 - [WordPress.com](https://wordpress.com/black-friday-2026/) - Hosted WordPress sites and blogs.<br>
   Extra 25% off annual and multi-year plans (Ends Dec 1)
-- [Format](https://www.format.com/cyber2026) - Portfolio website builder with client galleries and store.<br>
+- [Format](https://www.format.com/cyber2026) - Portfolio website builder with client galleries and an online store.<br>
   60% off the first year with code `CYBER2026` (Ends Dec 2)
-- [Pixpa](https://www.pixpa.com/blog/black-friday-cyber-monday-deals) - Portfolio website builder with client galleries, store, and blog.<br>
+- [Pixpa](https://www.pixpa.com/blog/black-friday-cyber-monday-deals) - Portfolio website builder with client galleries, an online store, and a blog.<br>
   Up to 55% off annual plans with code `BLFPIXPA55` (Starts Nov 28, ends Dec 31)
 
 ## Cameras, Microphones, and Streaming Gear
@@ -151,16 +147,16 @@ Black Friday is November 27, 2026, and Cyber Monday is November 30, 2026. Every 
   15% to 25% off listed lights.
 - [Neewer](https://neewer.com/) - Lights, tripods, phone rigs, and studio accessories.<br>
   25% to 50% off sitewide.
-- [ZHIYUN](https://store.zhiyun-tech.com/pages/deals) - Camera and phone gimbals and LED video lights.<br>
+- [ZHIYUN](https://store.zhiyun-tech.com/pages/deals) - Camera gimbals, phone stabilizers, and LED video lights.<br>
   Up to 45% off (Ends Nov 30)
-- [Peak Design](https://www.peakdesign.com/global/) - Camera straps, clips, travel tripods, and camera bags.<br>
+- [Peak Design](https://www.peakdesign.com/global/) - Camera straps, clips, travel tripods, and bags.<br>
   Up to 40% off everything (Ends Cyber Monday)
 - [JOBY](https://joby.com/pages/black-friday-sale) - Flexible tripods and phone mounts.<br>
   15% off sitewide.
 
 ## Other Deal Lists
 
-These lists were updated for 2026 when checked on November 24, 2026. They are not written for creators, so creator tools are spread across their sections.
+These lists are updated for 2026. Because they target a general audience rather than content creators and influencers, relevant tools are spread across multiple sections.
 
 - [Awesome Black Friday Cyber Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday#readme) - Apps, software, and SaaS deals reviewed by the maintainer, with design, marketing, and social media sections.
 - [Black Friday Deals](https://github.com/mRs-/Black-Friday-Deals#readme) - macOS and iOS apps, developer tools, books, and courses, with video and graphic software sections.
