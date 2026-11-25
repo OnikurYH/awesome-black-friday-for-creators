@@ -30,7 +30,7 @@ Deals from my partners. The links in this section are affiliate links.
     <td width="50%" valign="top">
       <a href="https://homeck.app/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><img src="https://homeck.app/og/black-friday.jpg" width="100%" alt="Homeck Black Friday: up to 40% off Homeck Pro"></a><br>
       <a href="https://homeck.app/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><b>Homeck</b></a> · Up to 40% off Homeck Pro<br>
-      HomeKit automations and scenes for room lights and devices on iPhone and iPad.<br>
+      The all-in-one HomeKit app that still looks like Apple Home. One scene sets your studio lights and plugs for a shoot. Pro adds automations with conditions, alerts when something changes, Shortcut Push Links, live HomeKit cameras in one view, full backups, and a code vault.<br>
       Ends Dec 6
     </td>
     <td width="50%" valign="top">
