@@ -44,14 +44,14 @@ Deals from my partners. The links in this section are affiliate links.
 
 ## ![](media/video.svg)Video Editing and Screen Recording
 
-- <a href="https://www.adobe.com/creativecloud/plans.html"><img src="https://www.google.com/s2/favicons?domain=www.adobe.com&sz=64" width="20" height="20" align="absmiddle" alt="Adobe Creative Cloud Pro"></a> [Adobe Creative Cloud Pro](https://www.adobe.com/creativecloud/plans.html) - Premiere, After Effects, Photoshop, and 20+ other apps in one subscription.<br>
-  **57% off the first year**, per [MacRumors](https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/) and [Creative Bloq](https://www.creativebloq.com/deals/adobes-black-friday-deal-is-its-biggest-in-years-with-57-percent-off-creative-cloud-pro) (Ends Nov 27 or Dec 6)
+- <a href="https://www.adobe.com/creativecloud/plans.html"><img src="https://www.google.com/s2/favicons?domain=www.adobe.com&sz=64" width="20" height="20" align="absmiddle" alt="Adobe Creative Cloud Pro"></a> [Adobe Creative Cloud Pro](https://www.adobe.com/creativecloud/plans.html) - 20+ apps, including Premiere, After Effects, and Photoshop, in one subscription.<br>
+  **57% off the first year**, per [MacRumors](https://www.macrumors.com/2026/11/16/adobes-black-friday-sale-2026/) and [Creative Bloq](https://www.creativebloq.com/deals/adobes-black-friday-deal-is-its-biggest-in-years-with-57-percent-off-creative-cloud-pro) (Ends Nov 27)
 - <a href="https://filmora.wondershare.com/sales-promotion.html"><img src="https://www.google.com/s2/favicons?domain=filmora.wondershare.com&sz=64" width="20" height="20" align="absmiddle" alt="Filmora"></a> [Filmora](https://filmora.wondershare.com/sales-promotion.html) - Desktop and mobile video editor with templates.<br>
-  **Up to 30% off annual plans** (Ends Dec 8)
+  **Up to 30% off** (Ends Dec 8)
 - <a href="https://www.veed.io/tools/black-friday"><img src="https://www.google.com/s2/favicons?domain=www.veed.io&sz=64" width="20" height="20" align="absmiddle" alt="VEED"></a> [VEED](https://www.veed.io/tools/black-friday) - Browser-based video editor with subtitle tools and screen recording.<br>
   **30% off annual plans** with code `BLACKFRIDAY30` (Ends Dec 2)
-- <a href="https://invideo.io/pricing/"><img src="https://www.google.com/s2/favicons?domain=invideo.io&sz=64" width="20" height="20" align="absmiddle" alt="InVideo"></a> [InVideo](https://invideo.io/pricing/) - AI video generator and editor driven by text prompts.<br>
-  **Up to 75% off annual plans**.
+- <a href="https://invideo.io/pricing/"><img src="https://www.google.com/s2/favicons?domain=invideo.io&sz=64" width="20" height="20" align="absmiddle" alt="invideo"></a> [invideo](https://invideo.io/pricing/) - AI video generator and editor driven by text prompts.<br>
+  **Up to 75% off annual plans** (Ends Nov 25)
 - <a href="https://www.ecamm.com/blackfriday/"><img src="https://www.google.com/s2/favicons?domain=www.ecamm.com&sz=64" width="20" height="20" align="absmiddle" alt="Ecamm Live"></a> [Ecamm Live](https://www.ecamm.com/blackfriday/) - Live streaming and recording studio for Mac.<br>
   **40% off the first year** (Ends Nov 30)
 - <a href="https://getrecut.com/"><img src="https://www.google.com/s2/favicons?domain=getrecut.com&sz=64" width="20" height="20" align="absmiddle" alt="Recut"></a> [Recut](https://getrecut.com/) - Silence-removal tool for video and podcast recordings.<br>
@@ -64,11 +64,11 @@ Deals from my partners. The links in this section are affiliate links.
 - <a href="https://www.synthesia.io/pricing"><img src="https://www.google.com/s2/favicons?domain=www.synthesia.io&sz=64" width="20" height="20" align="absmiddle" alt="Synthesia"></a> [Synthesia](https://www.synthesia.io/pricing) - Avatar videos generated from scripts and documents.<br>
   **Up to 50% off yearly plans** (Ends Dec 7)
 - <a href="https://suno.com/pricing"><img src="https://www.google.com/s2/favicons?domain=suno.com&sz=64" width="20" height="20" align="absmiddle" alt="Suno"></a> [Suno](https://suno.com/pricing) - AI music and song generator.<br>
-  **Extra 30% off annual plans**.
+  **Extra 30% off annual plans** (Ends Nov 30)
 - <a href="https://www.topazlabs.com/sale"><img src="https://www.google.com/s2/favicons?domain=www.topazlabs.com&sz=64" width="20" height="20" align="absmiddle" alt="Topaz Labs"></a> [Topaz Labs](https://www.topazlabs.com/sale) - Video and photo upscaling, denoising, and sharpening software.<br>
   **Up to 67% off**.
 - <a href="https://pictory.ai/pricing/"><img src="https://www.google.com/s2/favicons?domain=pictory.ai&sz=64" width="20" height="20" align="absmiddle" alt="Pictory"></a> [Pictory](https://pictory.ai/pricing/) - Tool for turning scripts, articles, and long videos into short clips.<br>
-  **50% off all plans**.
+  **50% off all plans** (Ends Nov 27)
 - <a href="https://www.colossyan.com/pricing"><img src="https://www.google.com/s2/favicons?domain=www.colossyan.com&sz=64" width="20" height="20" align="absmiddle" alt="Colossyan"></a> [Colossyan](https://www.colossyan.com/pricing) - Avatar videos and courses generated from documents and slides.<br>
   **40% off the first year of Professional** with code `BLACKFRIDAY40` (Ends Nov 30)
 - <a href="https://www.hitpaw.com/sales-promotion.html"><img src="https://www.google.com/s2/favicons?domain=www.hitpaw.com&sz=64" width="20" height="20" align="absmiddle" alt="HitPaw"></a> [HitPaw](https://www.hitpaw.com/sales-promotion.html) - Apps for video and photo enhancement and format conversion.<br>
@@ -88,7 +88,7 @@ Deals from my partners. The links in this section are affiliate links.
 - <a href="https://www.izotope.com/en/shop/deals.html"><img src="https://www.google.com/s2/favicons?domain=www.izotope.com&sz=64" width="20" height="20" align="absmiddle" alt="iZotope"></a> [iZotope](https://www.izotope.com/en/shop/deals.html) - Audio repair, mixing, and mastering plugins.<br>
   **25% off flagship products, other deals from $29** (Ends Dec 7)
 - <a href="https://www.waves.com/specials"><img src="https://www.google.com/s2/favicons?domain=www.waves.com&sz=64" width="20" height="20" align="absmiddle" alt="Waves"></a> [Waves](https://www.waves.com/specials) - Mixing, mastering, and vocal plugins.<br>
-  **Any 3 plugins for $49.99**.
+  **3 plugins for $49.99**.
 - <a href="https://www.uaudio.com/collections/uad-plugins"><img src="https://www.google.com/s2/favicons?domain=www.uaudio.com&sz=64" width="20" height="20" align="absmiddle" alt="Universal Audio"></a> [Universal Audio](https://www.uaudio.com/collections/uad-plugins) - UAD plugins and LUNA recording software.<br>
   **Up to 80% off** (Ends Nov 30)
 - <a href="https://www.native-instruments.com/en/specials/"><img src="https://www.google.com/s2/favicons?domain=www.native-instruments.com&sz=64" width="20" height="20" align="absmiddle" alt="Native Instruments"></a> [Native Instruments](https://www.native-instruments.com/en/specials/) - Virtual instruments, sample libraries, and effects.<br>
@@ -103,7 +103,7 @@ Deals from my partners. The links in this section are affiliate links.
 - <a href="https://skylum.com/luminar/pricing"><img src="https://www.google.com/s2/favicons?domain=skylum.com&sz=64" width="20" height="20" align="absmiddle" alt="Luminar"></a> [Luminar](https://skylum.com/luminar/pricing) - Photo editor for desktop and mobile.<br>
   **Up to 77% off**.
 - <a href="https://www.dxo.com/en/news/introducing-black-friday/"><img src="https://www.google.com/s2/favicons?domain=www.dxo.com&sz=64" width="20" height="20" align="absmiddle" alt="DxO"></a> [DxO](https://www.dxo.com/en/news/introducing-black-friday/) - RAW photo editing suite including PhotoLab, PureRAW, and Nik Collection.<br>
-  **Up to 50% off**.
+  **Up to 50% off** (Ends Nov 29)
 - <a href="https://www.on1.com/landing/black-friday/"><img src="https://www.google.com/s2/favicons?domain=www.on1.com&sz=64" width="20" height="20" align="absmiddle" alt="ON1 Photo RAW"></a> [ON1 Photo RAW](https://www.on1.com/landing/black-friday/) - RAW photo editor and organizer for Mac and Windows.<br>
   **One-time license for $59.99** (Ends Nov 27)
 - <a href="https://www.kittl.com/blogs/black-friday-2026-our-biggest-deal-yet/"><img src="https://www.google.com/s2/favicons?domain=www.kittl.com&sz=64" width="20" height="20" align="absmiddle" alt="Kittl"></a> [Kittl](https://www.kittl.com/blogs/black-friday-2026-our-biggest-deal-yet/) - Browser-based design tool for merch, logos, and social graphics.<br>
@@ -122,7 +122,7 @@ Deals from my partners. The links in this section are affiliate links.
 - <a href="https://vidiq.com/unlock-growth/"><img src="https://www.google.com/s2/favicons?domain=vidiq.com&sz=64" width="20" height="20" align="absmiddle" alt="vidIQ"></a> [vidIQ](https://vidiq.com/unlock-growth/) - YouTube keyword research, video ideas, and channel analytics.<br>
   **25% off Boost** with code `bfcm26-yr` (Ends Dec 2)
 - <a href="https://www.tubebuddy.com/black-friday"><img src="https://www.google.com/s2/favicons?domain=www.tubebuddy.com&sz=64" width="20" height="20" align="absmiddle" alt="TubeBuddy"></a> [TubeBuddy](https://www.tubebuddy.com/black-friday) - YouTube SEO, keyword research, and bulk video editing.<br>
-  **50% off annual licenses** (Ends Dec 6)
+  **50% off annual licenses** (Ends Nov 27 or Dec 6)
 - <a href="https://outlierkit.com/blog/black-friday-youtube-tool-deals"><img src="https://www.google.com/s2/favicons?domain=outlierkit.com&sz=64" width="20" height="20" align="absmiddle" alt="OutlierKit"></a> [OutlierKit](https://outlierkit.com/blog/black-friday-youtube-tool-deals) - YouTube research tool for finding outlier videos and keywords.<br>
   **40% off any plan** with code `BFCM40` (Ends Dec 5)
 
@@ -137,15 +137,15 @@ Deals from my partners. The links in this section are affiliate links.
 - <a href="https://www.getresponse.com/blog/saas-black-friday-deals"><img src="https://www.google.com/s2/favicons?domain=www.getresponse.com&sz=64" width="20" height="20" align="absmiddle" alt="GetResponse"></a> [GetResponse](https://www.getresponse.com/blog/saas-black-friday-deals) - Email newsletters, automations, and signup forms.<br>
   **30% off a 12-month plan, 40% off 24 months** (Starts Nov 25, ends Dec 3)
 - <a href="https://www.teachable.com/pricing"><img src="https://www.google.com/s2/favicons?domain=www.teachable.com&sz=64" width="20" height="20" align="absmiddle" alt="Teachable"></a> [Teachable](https://www.teachable.com/pricing) - Platform for hosting and selling online courses, coaching, and memberships.<br>
-  **50% off for 2 months**.
+  **5 months free on annual Builder and Growth plans, or 40% off monthly for 6 months**.
 - <a href="https://www.kajabi.com/black-friday"><img src="https://www.google.com/s2/favicons?domain=www.kajabi.com&sz=64" width="20" height="20" align="absmiddle" alt="Kajabi"></a> [Kajabi](https://www.kajabi.com/black-friday) - Platform for selling courses, coaching, and memberships with built-in web and email tools.<br>
   **30% off all plans for 6 months** (Ends Nov 30)
 
 ## ![](media/globe.svg)Websites and Portfolios
 
 - <a href="https://wordpress.com/black-friday-2026/"><img src="https://www.google.com/s2/favicons?domain=wordpress.com&sz=64" width="20" height="20" align="absmiddle" alt="WordPress.com"></a> [WordPress.com](https://wordpress.com/black-friday-2026/) - Hosted WordPress sites and blogs.<br>
-  **Extra 25% off annual and multi-year plans** (Ends Dec 1)
-- <a href="https://www.format.com/cyber2026"><img src="https://www.google.com/s2/favicons?domain=www.format.com&sz=64" width="20" height="20" align="absmiddle" alt="Format"></a> [Format](https://www.format.com/cyber2026) - Portfolio website builder with client galleries and an online store.<br>
+  **Extra 25% off annual and multi-year plans** (Starts Nov 27, ends Dec 1)
+- <a href="https://www.format.com/pricing"><img src="https://www.google.com/s2/favicons?domain=www.format.com&sz=64" width="20" height="20" align="absmiddle" alt="Format"></a> [Format](https://www.format.com/pricing) - Portfolio website builder with client galleries and an online store.<br>
   **60% off the first year** with code `CYBER2026` (Ends Dec 2)
 - <a href="https://www.pixpa.com/blog/black-friday-cyber-monday-deals"><img src="https://www.google.com/s2/favicons?domain=www.pixpa.com&sz=64" width="20" height="20" align="absmiddle" alt="Pixpa"></a> [Pixpa](https://www.pixpa.com/blog/black-friday-cyber-monday-deals) - Portfolio website builder with client galleries, an online store, and a blog.<br>
   **Up to 55% off annual plans** with code `BLFPIXPA55` (Starts Nov 28, ends Dec 31)
@@ -153,13 +153,13 @@ Deals from my partners. The links in this section are affiliate links.
 ## ![](media/camera.svg)Cameras, Microphones, and Streaming Gear
 
 - <a href="https://us.store.dji.com/pages/promotion"><img src="https://www-cdn.djiits.com/dps/5622076973f439e11ffdac3c57b73558.png" width="20" height="20" align="absmiddle" alt="DJI"></a> [DJI](https://us.store.dji.com/pages/promotion) - Handheld cameras, action cameras, gimbals, and wireless microphones.<br>
-  **Discounts on handheld cameras and stabilizers**.
+  **Discounts on handheld cameras and stabilizers** (Ends Nov 30)
 - <a href="https://store.insta360.com/campaign/black-friday-deals"><img src="https://www.google.com/s2/favicons?domain=store.insta360.com&sz=64" width="20" height="20" align="absmiddle" alt="Insta360"></a> [Insta360](https://store.insta360.com/campaign/black-friday-deals) - 360 cameras, action cameras, webcams, and phone gimbals.<br>
-  **Up to 35% off selected products**.
+  **Up to 35% off selected products** (Ends Dec 6)
 - <a href="https://www.hollyland.com/deals/black-friday"><img src="https://www.google.com/s2/favicons?domain=www.hollyland.com&sz=64" width="20" height="20" align="absmiddle" alt="Hollyland"></a> [Hollyland](https://www.hollyland.com/deals/black-friday) - Wireless lavalier microphones and video transmitters.<br>
   **Up to 33% off** (Ends Nov 30)
 - <a href="https://www.elgato.com/us/en"><img src="https://www.google.com/s2/favicons?domain=www.elgato.com&sz=64" width="20" height="20" align="absmiddle" alt="Elgato"></a> [Elgato](https://www.elgato.com/us/en) - Stream Deck controllers, microphones, key lights, and capture cards.<br>
-  **Stream Deck for $119.99 instead of $149.99**.
+  **Stream Deck for $119.99 instead of $149.99** (Ends Nov 29)
 - <a href="https://www.logitech.com/en-us/shop/deals"><img src="https://www.google.com/s2/favicons?domain=www.logitech.com&sz=64" width="20" height="20" align="absmiddle" alt="Logitech"></a> [Logitech](https://www.logitech.com/en-us/shop/deals) - Webcams, keyboards, mice, and streaming peripherals.<br>
   **Up to 60% off**.
 
@@ -169,7 +169,7 @@ Deals from my partners. The links in this section are affiliate links.
   **Up to 20% off**.
 - <a href="https://amarancreators.com/collections/black-friday-sale"><img src="https://www.google.com/s2/favicons?domain=amarancreators.com&sz=64" width="20" height="20" align="absmiddle" alt="amaran"></a> [amaran](https://amarancreators.com/collections/black-friday-sale) - LED lights and panels for small studios.<br>
   **15% to 25% off listed lights**.
-- <a href="https://neewer.com/"><img src="https://www.google.com/s2/favicons?domain=neewer.com&sz=64" width="20" height="20" align="absmiddle" alt="Neewer"></a> [Neewer](https://neewer.com/) - Lights, tripods, phone rigs, and studio accessories.<br>
+- <a href="https://neewer.com/"><img src="https://www.google.com/s2/favicons?domain=neewer.com&sz=64" width="20" height="20" align="absmiddle" alt="NEEWER"></a> [NEEWER](https://neewer.com/) - Lights, tripods, phone rigs, and studio accessories.<br>
   **25% to 50% off sitewide**.
 - <a href="https://store.zhiyun-tech.com/pages/deals"><img src="https://www.google.com/s2/favicons?domain=store.zhiyun-tech.com&sz=64" width="20" height="20" align="absmiddle" alt="ZHIYUN"></a> [ZHIYUN](https://store.zhiyun-tech.com/pages/deals) - Camera gimbals, phone stabilizers, and LED video lights.<br>
   **Up to 45% off** (Ends Nov 30)
