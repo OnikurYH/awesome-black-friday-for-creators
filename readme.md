@@ -28,14 +28,14 @@ Deals from my partners. The links in this section are affiliate links.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://homeck.app/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><img src="https://homeck.app/og/black-friday.jpg" width="100%" alt="Homeck Black Friday: up to 40% off Homeck Pro"></a><br>
-      <a href="https://homeck.app/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><b>Homeck</b></a> · Up to 40% off Homeck Pro<br>
+      <a href="https://uql.to/homeck-bf?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026&utm_content=creators"><img src="https://homeck.app/og/black-friday.jpg" width="100%" alt="Homeck Black Friday: up to 40% off Homeck Pro"></a><br>
+      <a href="https://uql.to/homeck-bf?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026&utm_content=creators"><b>Homeck</b></a> · Up to 40% off Homeck Pro<br>
       The all-in-one HomeKit app that still looks like Apple Home. One scene sets your studio lights and plugs for a shoot. Pro adds automations with conditions, alerts when something changes, Shortcut Push Links, live HomeKit cameras in one view, full backups, and a code vault.<br>
       Ends Dec 6
     </td>
     <td width="50%" valign="top">
-      <a href="https://getuql.com/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><img src="https://getuql.com/og-sale.png" width="100%" alt="uql Black Friday: 20% off your first year with code BF2026"></a><br>
-      <a href="https://getuql.com/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026"><b>uql</b></a> · 20% off the first year<br>
+      <a href="https://uql.to/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026&utm_content=creators"><img src="https://getuql.com/og-sale.png" width="100%" alt="uql Black Friday: 20% off your first year with code BF2026"></a><br>
+      <a href="https://uql.to/black-friday?utm_source=github&utm_medium=affiliate&utm_campaign=black-friday-2026&utm_content=creators"><b>uql</b></a> · 20% off the first year<br>
       Smart links, QR codes, and bio pages.<br>
       Code <code>BF2026</code> · Ends Dec 6
     </td>
