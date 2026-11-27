@@ -125,6 +125,8 @@ Deals from my partners. The links in this section are affiliate links.
   **50% off annual licenses** (Ends Nov 27 or Dec 6)
 - <a href="https://outlierkit.com/blog/black-friday-youtube-tool-deals"><img src="https://www.google.com/s2/favicons?domain=outlierkit.com&sz=64" width="20" height="20" align="absmiddle" alt="OutlierKit"></a> [OutlierKit](https://outlierkit.com/blog/black-friday-youtube-tool-deals) - YouTube research tool for finding outlier videos and keywords.<br>
   **40% off any plan** with code `BFCM40` (Ends Dec 5)
+- <a href="https://krevaya.com/black-friday/"><img src="https://www.google.com/s2/favicons?domain=krevaya.com&sz=64" width="20" height="20" align="absmiddle" alt="Krevaya"></a> [Krevaya](https://krevaya.com/black-friday/) - Design images, carousels and videos, then schedule them to 34 social channels from one calendar.
+  **Lifetime plan for the first 100 buyers** ($199 Essentials or $499 Plus, one payment, until Nov 30), or **30% off the first year** of any plan (Ends Dec 4)
 
 ## ![](media/mail.svg)Newsletters, Courses, and Memberships
 
