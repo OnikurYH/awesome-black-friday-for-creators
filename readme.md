@@ -56,6 +56,8 @@ Deals from my partners. The links in this section are affiliate links.
   **40% off the first year** (Ends Nov 30)
 - <a href="https://getrecut.com/"><img src="https://www.google.com/s2/favicons?domain=getrecut.com&sz=64" width="20" height="20" align="absmiddle" alt="Recut"></a> [Recut](https://getrecut.com/) - Silence-removal tool for video and podcast recordings.<br>
   **One-time purchase for $99 instead of $149** (Ends Dec 4)
+- <a href="https://screencharm.com"><img src="https://www.google.com/s2/favicons?domain=screencharm.com&sz=64" width="20" height="20" align="absmiddle" alt="Screen Charm"></a> [Screen Charm](https://screencharm.com) - Mac screen recorder with auto-zoom, a smooth cursor, auto captions, and 4K export.<br>
+  **39% off the $79 lifetime deal (~$49; regular $149)**, no code needed (Nov 27 – Dec 1)
 
 ## ![](media/sparkles.svg)AI Voice, Video, and Image Tools
 
